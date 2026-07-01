@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Expo IMANTI 2026</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- ========================= -->
+    <!-- ENCABEZADO -->
+    <!-- ========================= -->
+
+    <header>
+
+        <h1>
+
+            Expo IMANTI 2026: Videojuegos en Scratch
+
+        </h1>
+
+        <div class="selectorProyecto">
+
+            <button id="btnProyecto">
+
+
+                <span id="proyectoActual">1</span>
+
+                de
+
+                <span id="totalProyectos">1</span>
+
+                ▼
+
+            </button>
+
+            <div id="menuProyecto" class="oculto">
+
+                <input
+                    type="text"
+                    id="buscarAlumno"
+                    placeholder="Buscar estudiante...">
+
+                <div id="listaProyectos"></div>
+
+            </div>
+
+        </div>
+
+    </header>
+
+
+    <!-- ========================= -->
+    <!-- CONTENIDO -->
+    <!-- ========================= -->
+
+    <main>
+
+        <!-- PANEL IZQUIERDO -->
+
+        <section class="visor">
+
+            <div id="cargando">
+
+                Cargando proyecto...
+
+            </div>
+
+            <iframe
+
+                id="scratchPlayer"
+
+                allowfullscreen>
+
+            </iframe>
+
+        </section>
+
+
+
+        <!-- PANEL DERECHO -->
+
+        <aside class="panel">
+
+            <div class="tarjeta">
+
+                <h2>
+                    Instrucciones y Notas
+                </h2>
+
+                <div id="instrucciones">
+                    Aquí aparecerán las instrucciones.
+                </div>
+
+            </div>
+
+
+
+            <div class="tarjeta trailer">
+
+                <h2>
+
+                    
+
+                </h2>
+
+                <button id="btnTrailer">
+
+                    ▶ Ver tráiler
+
+                </button>
+
+            </div>
+
+        </aside>
+
+    </main>
+
+
+
+    <!-- ========================= -->
+    <!-- PIE -->
+    <!-- ========================= -->
+
+    <footer>
+
+        <button
+            id="btnAnterior"
+            class="botonCircular">
+
+            &#10094;
+
+        </button>
+
+
+        <div class="informacion">
+
+            <h2 id="nombreAlumno">
+
+                Nombre del alumno
+
+            </h2>
+
+            <p id="nombreProyecto">
+
+                Nombre del proyecto
+
+            </p>
+
+        </div>
+
+
+        <div class="acciones">
+
+
+            <button
+                id="btnSiguiente"
+                class="botonCircular">
+
+                &#10095;
+
+            </button>
+
+        </div>
+
+    </footer>
+
+
+
+    <!-- ========================= -->
+    <!-- JAVASCRIPT -->
+    <!-- ========================= -->
+
+    <script src="projects.js"></script>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
