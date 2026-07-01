@@ -30,7 +30,6 @@ body{
 
 }
 
-
 /* =====================================================
    HEADER
 ===================================================== */
@@ -63,11 +62,19 @@ header h1{
 
 }
 
+/* CONTENEDOR BOTONES */
 .selectorProyecto{
 
     position:relative;
+    display:flex;
+    align-items:center;
+    gap:10px;
 
 }
+
+/* =====================================================
+   BOTÓN PRINCIPAL
+===================================================== */
 
 #btnProyecto{
 
@@ -95,6 +102,43 @@ header h1{
 
 }
 
+/* =====================================================
+   BOTONES ICONO (🎲 y ☰)
+===================================================== */
+
+.botonIcono{
+
+    width:46px;
+
+    height:46px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#313846;
+
+    color:white;
+
+    font-size:20px;
+
+    cursor:pointer;
+
+    transition:.25s;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+}
+
+.botonIcono:hover{
+
+    background:#4a8df8;
+
+}
 
 /* =====================================================
    MENÚ
@@ -104,9 +148,11 @@ header h1{
 
     position:absolute;
 
-    right:0;
+    right:50%;
 
-    top:55px;
+    transform:translateX(50%);
+
+    top:58px;
 
     width:330px;
 
@@ -125,6 +171,8 @@ header h1{
     display:none;
 
 }
+
+/* BUSCADOR */
 
 #buscarAlumno{
 
@@ -150,6 +198,8 @@ header h1{
 
 }
 
+/* LISTA */
+
 #listaProyectos{
 
     max-height:450px;
@@ -157,6 +207,8 @@ header h1{
     overflow-y:auto;
 
 }
+
+/* ITEM */
 
 .proyecto{
 
@@ -190,7 +242,6 @@ header h1{
 
 }
 
-
 /* =====================================================
    CONTENIDO
 ===================================================== */
@@ -206,7 +257,6 @@ main{
     padding:20px;
 
 }
-
 
 /* =====================================================
    VISOR SCRATCH
@@ -259,7 +309,6 @@ main{
     z-index:5;
 
 }
-
 
 /* =====================================================
    PANEL DERECHO
@@ -349,7 +398,6 @@ main{
 
 }
 
-
 /* =====================================================
    FOOTER
 ===================================================== */
@@ -404,7 +452,6 @@ footer{
 
 }
 
-
 /* =====================================================
    BOTONES CIRCULARES
 ===================================================== */
@@ -451,7 +498,6 @@ footer{
 
 }
 
-
 /* =====================================================
    SCROLLBAR
 ===================================================== */
@@ -481,7 +527,6 @@ footer{
     background:#777;
 
 }
-
 
 /* =====================================================
    RESPONSIVE
