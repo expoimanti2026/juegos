@@ -33,7 +33,7 @@ A,D y Espacio
 
         scratch: "https://scratch.mit.edu/projects/1310622873/embed",
 
-        trailer: "",
+        trailer: "https://drive.google.com/file/d/1uQSujGFh6AfeShhoWcVTfke8V5CRC69o/preview",
 
         instrucciones: `
 usa la flecha para avanzar y llegar al castillo sin tocar la bomba, al tocar la bomba volveras al mismo lugar de antes
@@ -119,7 +119,7 @@ AESTHETIC ASMR WARNING
 
         scratch: "https://scratch.mit.edu/projects/1310641515/embed",
 
-        trailer: "https://drive.google.com/file/d/1FZ9W4HWupJrPAX5xemQaEmZRkFdyJXUH/preview",
+        trailer: "https://drive.google.com/file/d/1K1Q-P2y9SBoGbkumP4lI5Pccg9WnWz1d/preview",
 
         instrucciones: `
 Pasa por en medio de los barrotes saltando con la tecla "espacio" y pícale a la "A" para reiniciar el juego y poder empezar desde cero para ganar más puntos
@@ -175,7 +175,7 @@ Eres una tortuga, tu misión será tomar decisiones para vivir y hacer amigos po
 
         scratch: "https://scratch.mit.edu/projects/1310630119/embed",
 
-        trailer: "",
+        trailer: "https://drive.google.com/file/d/11sxE7LPK58UV2K4v4nSgBMyCnO-d78i0/preview",
 
         instrucciones: `
 atrapa l estrella
@@ -232,7 +232,7 @@ El jugador controla a un chef que debe atrapar ingredientes correctos para compl
 
         scratch: "https://scratch.mit.edu/projects/1310631477/embed",
 
-        trailer: "",
+        trailer: "https://drive.google.com/file/d/1XZ4j7zo1WvVLfynEMKJ-KirYBv_pYaKa/preview",
 
         instrucciones: `
 Tienes que usar las teclas "w" y "s" para disparar tus unicas 2 cañones que tienes y le tienes que atinar a los dos monstruos. Al final avanza hasta llegar a la orilla y ganaras el juego.`
@@ -412,7 +412,7 @@ Mouse pad
 
         scratch: "https://scratch.mit.edu/projects/1316690384/embed",
 
-        trailer: "",
+        trailer: "https://drive.google.com/file/d/1ndUuhLbPDSfBiitbdELKaEwg2JxfJFMg/preview",
 
         instrucciones: `
 utiliza la flecha para avanzar y llegar al castillo. No toques la bola de fuego si la tocas volverás al mismo lugar
