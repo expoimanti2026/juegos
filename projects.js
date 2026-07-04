@@ -6,7 +6,7 @@ const projects = [
 
         scratch: "https://scratch.mit.edu/projects/1295527998/embed",
 
-        trailer: "",
+        trailer: "https://drive.google.com/file/d/124WeNyred4sCNHdQjpASKET6CW-915sn/preview",
 
         instrucciones: `
 espera hasta 1 para disparar
