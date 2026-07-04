@@ -591,4 +591,5 @@ footer{
 #nombreProyecto:hover{
     color:#4a8df8;
     text-decoration:underline;
+    cursor:pointer !important;
 }
