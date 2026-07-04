@@ -584,7 +584,7 @@ footer{
 
 }
 #nombreProyecto{
-    cursor:pointer;
+    cursor:pointer !important;
     transition:.2s;
 }
 
