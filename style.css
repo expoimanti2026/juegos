@@ -583,3 +583,12 @@ footer{
     }
 
 }
+#nombreProyecto{
+    cursor:pointer;
+    transition:.2s;
+}
+
+#nombreProyecto:hover{
+    color:#4a8df8;
+    text-decoration:underline;
+}
