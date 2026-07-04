@@ -6,6 +6,8 @@ const projects = [
 
         scratch: "https://scratch.mit.edu/projects/1295527998/embed",
 
+        code: "https://scratch.mit.edu/projects/1295527998/editor",
+
         trailer: "https://drive.google.com/file/d/124WeNyred4sCNHdQjpASKET6CW-915sn/preview",
 
         instrucciones: `
@@ -20,6 +22,8 @@ space = shoot
 
         scratch: "https://scratch.mit.edu/projects/1289747332/embed",
 
+        code: "https://scratch.mit.edu/projects/1289747332/editor",
+
         trailer: "",
 
         instrucciones: `
@@ -32,6 +36,8 @@ A,D y Espacio
         proyecto: "Musa",
 
         scratch: "https://scratch.mit.edu/projects/1310622873/embed",
+       
+        code: "https://scratch.mit.edu/projects/1310622873/editor",
 
         trailer: "https://drive.google.com/file/d/1uQSujGFh6AfeShhoWcVTfke8V5CRC69o/preview",
 
@@ -49,6 +55,8 @@ usa la flecha para avanzar y llegar al castillo sin tocar la bomba, al tocar la 
         proyecto: "pelea con un perro ",
 
         scratch: "https://scratch.mit.edu/projects/1330533591/embed",
+       
+        code: "https://scratch.mit.edu/projects/11330533591/editor",
 
         trailer: "",
 
@@ -72,6 +80,8 @@ Flecha arriba : atacar
 
         scratch: "https://scratch.mit.edu/projects/1280898738/embed",
 
+        code: "https://scratch.mit.edu/projects/1280898738/editor",
+
         trailer: "https://drive.google.com/file/d/1xod0YsuDtnaSiN2buQpEEkqjMbCj3F_q/preview",
 
         instrucciones: `
@@ -85,6 +95,8 @@ Usa las flechas para mover al Pacman, si tocas el borde del laberinto perderás 
         proyecto: "Sugar Rush",
 
         scratch: "https://scratch.mit.edu/projects/1310606296/embed",
+
+        code: "https://scratch.mit.edu/projects/1310606296/editor",
 
         trailer: "https://drive.google.com/file/d/1q-s0ZXg1ChrlgfLSsAzYpJn4N3ACj91l/preview",
 
@@ -104,6 +116,8 @@ Usa las flechas para mover al Pacman, si tocas el borde del laberinto perderás 
         proyecto: "Harvesting Game",
 
         scratch: "https://scratch.mit.edu/projects/1335039886/embed",
+        
+        code: "https://scratch.mit.edu/projects/1335039886/editor",
 
         trailer: "https://drive.google.com/file/d/13lVkR23KFr7zuBCMB4yEa86f-U7_TRPd/preview",
 
@@ -118,6 +132,8 @@ AESTHETIC ASMR WARNING
         proyecto: "SHARKKK.23",
 
         scratch: "https://scratch.mit.edu/projects/1310641515/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310641515/editor",
 
         trailer: "https://drive.google.com/file/d/1K1Q-P2y9SBoGbkumP4lI5Pccg9WnWz1d/preview",
 
@@ -132,6 +148,8 @@ Pasa por en medio de los barrotes saltando con la tecla "espacio" y pícale a la
         proyecto: "SPACING JUMP!",
 
         scratch: "https://scratch.mit.edu/projects/1310634372/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310634372/editor",
 
         trailer: "https://drive.google.com/file/d/1i8GD78D-0u7qFFp5TczU8wIRTberyBjT/preview",
 
@@ -147,6 +165,8 @@ Para iniciar el juego, presiona cualquier tecla, y para saltar, usa la tecla esp
         proyecto: "TAHITI REDEMPTION V2",
 
         scratch: "https://scratch.mit.edu/projects/1310614356/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310614356/editor",
 
         trailer: "",
 
@@ -161,6 +181,8 @@ Lo hice algo tardado ya que varias veces el codigo no funciono y no puedo asegur
         proyecto: "Be a turtle",
 
         scratch: "https://scratch.mit.edu/projects/1310614942/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310614942/editor",
 
         trailer: "https://drive.google.com/file/d/1Kt5xH3ZlnXbDMCpLeFMbELNKIm3Q-r8G/preview",
 
@@ -174,7 +196,9 @@ Eres una tortuga, tu misión será tomar decisiones para vivir y hacer amigos po
         proyecto: "Pusheen",
 
         scratch: "https://scratch.mit.edu/projects/1310630119/embed",
-
+        
+        code: "https://scratch.mit.edu/projects/1310630119/editor",
+        
         trailer: "https://drive.google.com/file/d/11sxE7LPK58UV2K4v4nSgBMyCnO-d78i0/preview",
 
         instrucciones: `
@@ -187,7 +211,9 @@ atrapa l estrella
 
         proyecto: "raise a kitty",
 
-        scratch: "https://scratch.mit.edu/projects/1310623188/embed",
+        scratch: "https://scratch.mit.edu/projects/1310623188/embed",        
+        
+        code: "https://scratch.mit.edu/projects/1310623188/editor",
 
         trailer: "https://drive.google.com/file/d/1DXjFO7IwyIsC5n-jpQpT8BbP1b1sxwmq/preview",
 
@@ -202,6 +228,8 @@ cuida a kitty y dale de comer presiona a tu kitty para obtener dinero
         proyecto: "Ody's Odyssey",
 
         scratch: "https://scratch.mit.edu/projects/1283651828/embed",
+        
+        code: "https://scratch.mit.edu/projects/1283651828/editor",
 
         trailer: "https://drive.google.com/file/d/1UXcmq-q6yajVj0mOL7i4m31jMxyUk20M/preview",
 
@@ -218,6 +246,8 @@ Fight monsters and try to get home to your wife.
         proyecto: "Un chef en apuros",
 
         scratch: "https://scratch.mit.edu/projects/1310614903/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310614903/editor",
 
         trailer: "",
 
@@ -231,6 +261,8 @@ El jugador controla a un chef que debe atrapar ingredientes correctos para compl
         proyecto: "PJO INVADERSSSS",
 
         scratch: "https://scratch.mit.edu/projects/1310631477/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310631477/editor",
 
         trailer: "https://drive.google.com/file/d/1XZ4j7zo1WvVLfynEMKJ-KirYBv_pYaKa/preview",
 
@@ -243,6 +275,8 @@ Tienes que usar las teclas "w" y "s" para disparar tus unicas 2 cañones que tie
         proyecto: "Cuphead Pirata 2",
 
         scratch: "https://scratch.mit.edu/projects/1316695833/embed",
+        
+        code: "https://scratch.mit.edu/projects/1316695833/editor",
 
         trailer: "https://drive.google.com/file/d/1yNIFFPoYinBL9KEgWtU3h6o_lxf4suyN/preview",
 
@@ -259,6 +293,8 @@ Es FRAMEPERFECT
         proyecto: "Caldo de Res Runner",
 
         scratch: "https://scratch.mit.edu/projects/1295540839/embed",
+        
+        code: "https://scratch.mit.edu/projects/1295540839/editor",
 
         trailer: "https://drive.google.com/file/d/1YEvyyfQTCyY66G4rKSkZcvzmN1mnCtX8/preview",
 
@@ -275,6 +311,8 @@ You can also get the magnet for an extra coin bonus. The game is endless, poor T
         proyecto: "Geometry Dash: scratch",
 
         scratch: "https://scratch.mit.edu/projects/1329783354/embed",
+        
+        code: "https://scratch.mit.edu/projects/1329783354/editor",
 
         trailer: "https://drive.google.com/file/d/1CAgflGPNuG9D6fT2kPiZs7kaZbqcxCtE/preview",
 
@@ -290,6 +328,8 @@ Música: "Stereo Madness" de RopTop Games
         proyecto: "The Dare",
 
         scratch: "https://scratch.mit.edu/projects/1319763768/embed",
+        
+        code: "https://scratch.mit.edu/projects/1319763768/editor",
 
         trailer: "https://drive.google.com/file/d/1vzY2tOQCKQtkl1Imn3V21plAGzUPGsp4/preview",
 
@@ -307,6 +347,8 @@ Mouse -shoot
         proyecto: "a̶̴̸̡̮͙̳͍͖̜̝̝̱̙̯̺̞͐͆̍ͣ͐̔̐̔͆ͨ́̾̃̃͘͟͢͠͝d̶̛͕̫̲̻͚̈́̔ͥͣ͌̍̆̂̒ͬ͢͟͠͠ͅo̡̡̢̤̼̲̻̬̰̖͙̲͓̤͉̱̯̰͛͑̎͊ͣͬ̀̾̐̃́̽ͦͣͬ̄̓̎̕͠",
 
         scratch: "https://scratch.mit.edu/projects/1316699245/embed",
+        
+        code: "https://scratch.mit.edu/projects/1316699245/editor",
 
         trailer: "",
 
@@ -324,6 +366,8 @@ Las imágenes son hechas por mi
         proyecto: "Pelota",
 
         scratch: "https://scratch.mit.edu/projects/1310619101/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310619101/editor",
 
         trailer: "https://drive.google.com/file/d/1iUlAeOjfc2E7I5b9puJ_VyXJR-lxGbTZ/preview",
 
@@ -337,6 +381,8 @@ solo juega nose bueno es para 2 jugadores uno es las teclas a y d y el otro las 
         proyecto: "Siderman",
 
         scratch: "https://scratch.mit.edu/projects/1310628797/embed",
+        
+        code: "https://scratch.mit.edu/projects/1310628797/editor",
 
         trailer: "https://drive.google.com/file/d/1NXxL8GqyUfj2L03kUmM3HQXOU_2HD0Nx/preview",
 
@@ -349,6 +395,8 @@ solo juega nose bueno es para 2 jugadores uno es las teclas a y d y el otro las 
         proyecto: "el gran salto",
 
         scratch: "https://scratch.mit.edu/projects/1328182838/embed",
+        
+        code: "https://scratch.mit.edu/projects/1328182838/editor",
 
         trailer: "https://drive.google.com/file/d/1YWdJ66AOFaV5iJoStAD-7JhkN4sH8EYW/preview",
 
@@ -362,6 +410,8 @@ saltar sin tocar el bicho
         proyecto: "Correr sobre un alien",
 
         scratch: "https://scratch.mit.edu/projects/1330554370/embed",
+        
+        code: "https://scratch.mit.edu/projects/1330554370/editor",
 
         trailer: "https://drive.google.com/file/d/1EReNsF-Yhm-m20vOyJp83jYvYsZ2k8oy/preview",
 
@@ -380,6 +430,8 @@ tecla S: abajo
         proyecto: "Pusheen",
 
         scratch: "https://scratch.mit.edu/projects/1325652859/embed",
+        
+        code: "https://scratch.mit.edu/projects/1325652859/editor",
 
         trailer: "",
 
@@ -394,6 +446,8 @@ Este juego es un clicker de Pusheen que cambia de accesorios cada 10 clicks
         proyecto: "Escape",
 
         scratch: "https://scratch.mit.edu/projects/1319772674/embed",
+        
+        code: "https://scratch.mit.edu/projects/1319772674/editor",
 
         trailer: "https://drive.google.com/file/d/1JqoWbxV6Wauf_S8wDYCChjPIxkNgEo_Q/preview",
 
@@ -411,6 +465,8 @@ Mouse pad
         proyecto: "bloom",
 
         scratch: "https://scratch.mit.edu/projects/1316690384/embed",
+
+        code: "https://scratch.mit.edu/projects/1316690384/editor",
 
         trailer: "https://drive.google.com/file/d/1ndUuhLbPDSfBiitbdELKaEwg2JxfJFMg/preview",
 
