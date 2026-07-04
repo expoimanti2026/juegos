@@ -35,6 +35,7 @@ const totalProyectos = document.getElementById("totalProyectos");
 
 const cargando = document.getElementById("cargando");
 
+
 // ======================================
 // INICIO
 // ======================================
@@ -50,6 +51,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
 });
 
+//=====
+//LINKS AL CÓDIGO
+//=====
+nombreProyecto.addEventListener("click", () => {
+
+    const proyecto = projects[indiceActual];
+
+    if (!proyecto.code) return;
+
+    window.open(
+        proyecto.code,
+        "_blank",
+        "width=1400,height=900,resizable=yes,scrollbars=yes"
+    );
+
+});
 // ======================================
 // RENDER PRINCIPAL
 // ======================================
