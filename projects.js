@@ -346,14 +346,14 @@ Mouse -shoot
 
         proyecto: "a̶̴̸̡̮͙̳͍͖̜̝̝̱̙̯̺̞͐͆̍ͣ͐̔̐̔͆ͨ́̾̃̃͘͟͢͠͝d̶̛͕̫̲̻͚̈́̔ͥͣ͌̍̆̂̒ͬ͢͟͠͠ͅo̡̡̢̤̼̲̻̬̰̖͙̲͓̤͉̱̯̰͛͑̎͊ͣͬ̀̾̐̃́̽ͦͣͬ̄̓̎̕͠",
 
-        scratch: "https://scratch.mit.edu/projects/1350212906/embed",
+        scratch: "https://scratch.mit.edu/projects/1351890144/embed",
         
-        code: "https://scratch.mit.edu/projects/1350212906/editor",
+        code: "https://scratch.mit.edu/projects/1351890144/editor",
 
         trailer: "https://drive.google.com/file/d/1pIc7HCjG2uS80xtVolcPqv6ILVAg2k4x/preview?autoplay=1",
 
         instrucciones: `
-
+Avanza con las flechas y salta texto con espacio.
 Música: Omori ost, Takopi no genzai ost, mothy, 32ki
 
 Las imágenes son hechas por mi
