@@ -350,7 +350,7 @@ Mouse -shoot
         
         code: "https://scratch.mit.edu/projects/1316699245/editor",
 
-        trailer: "",
+        trailer: "https://drive.google.com/file/d/1pIc7HCjG2uS80xtVolcPqv6ILVAg2k4x/preview?autoplay=1",
 
         instrucciones: `
 Todavía esta terminado, los textos no tienen significado, son letras al azar NO ESTA TERMINADO
